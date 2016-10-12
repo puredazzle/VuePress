@@ -1,2 +1,2 @@
 # VuePress
-Wordpress + Vue
+Wordpress + vue.js
